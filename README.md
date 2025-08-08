@@ -14,26 +14,18 @@
 
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is a web application that shows users which people they follow on a social media platform who do not follow them back. It provides an easy way to track non-mutual follows with a simple and interactive interface.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Many social media users wonder if those they follow are actually following back. This project solves the "non-problem" of tracking unreciprocated follows, saving users from endless manual checks and social media drama.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The solution is a playful website that connects to your social media API, fetches your followers and following lists, compares them, and displays the list of users who don’t follow you back. It’s a trivial tool that satisfies curiosity but serves no true purpose other than entertainment.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Next.JS
 
 ### Implementation
 For Software:
@@ -84,13 +76,11 @@ For Hardware:
 [Add your demo video link here]
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shan: Software
+- Rio: Documentation
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
